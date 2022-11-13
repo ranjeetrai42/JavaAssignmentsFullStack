@@ -9,6 +9,9 @@ public class DuplicatesInArray {
 		Scanner scan=new Scanner(System.in);
 		n=scan.nextInt();
 		int[] arr= new int[n];
+		for(int i=0;i<n;i++) {
+			arr[i]=scan.nextInt();
+		}
 
 	}
 
