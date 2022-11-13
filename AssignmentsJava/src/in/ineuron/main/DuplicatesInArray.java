@@ -12,7 +12,7 @@ public class DuplicatesInArray {
 		for(int i=0;i<n;i++) {
 			arr[i]=scan.nextInt();
 		}
-		System.out.println();
+		System.out.println("Hello World");
 	}
 
 }
