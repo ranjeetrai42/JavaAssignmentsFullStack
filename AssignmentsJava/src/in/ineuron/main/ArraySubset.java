@@ -1,10 +1,9 @@
 package in.ineuron.main;
 import java.util.*;
 public class ArraySubset {
-
 	public static void main(String[] args) {
 		int n1,n2;
-		@SuppressWarnings("unused")
+		@SuppressWarnings("resource")
 		Scanner scan =new Scanner(System.in);
 		System.out.print("Enter the size of the parent array: ");
 		n1=scan.nextInt();
