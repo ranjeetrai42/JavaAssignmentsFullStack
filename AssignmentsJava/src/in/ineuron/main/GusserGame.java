@@ -1,5 +1,9 @@
 package in.ineuron.main;
 import java.util.*;
+/*  Changes made to the program
+ 	User specific list of participants so program runs for n players.
+ 	List of all the winners who won the game.
+ */
 class Guesser{
 	private int guessNum;
 	int guessNum(){
